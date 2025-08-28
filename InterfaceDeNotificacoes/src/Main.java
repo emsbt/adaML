@@ -1,6 +1,6 @@
 import java.util.List;
 
-public class Principal {
+public class Main {
     public static void main(String[] args) {
         // 1. Criar as diferentes implementações de notificação
         Notificacao email = new Email();
